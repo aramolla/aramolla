@@ -15,7 +15,11 @@
 ### 💬 contact 💬
 [![VELOG](https://img.shields.io/badge/VELOG-73c86c?logo=VELOG&logoColor=white&style=plastic)](https://velog.io/@aramolla/posts)
 
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aramolla&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aramolla&layout=compact)
+
 
 <!--
 **aramolla/aramolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
