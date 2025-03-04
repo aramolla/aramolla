@@ -37,7 +37,7 @@
  
 </table>
 
-<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkfk1640)](https://solved.ac/dkfk1640)-->
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkfk1640)](https://solved.ac/dkfk1640)
 
 <!--
 **aramolla/aramolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
