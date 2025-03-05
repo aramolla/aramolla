@@ -11,6 +11,7 @@
 ![SPRINGBOOT](https://img.shields.io/badge/SPRINGBOOT-olive?logo=SPRINGBOOT&logoColor=white&style=plastic) 
 ![LANGCHAIN](https://img.shields.io/badge/LANGCHAIN-orange?logo=LANGCHAIN&logoColor=white&style=plastic)
 ![LangChain4j](https://img.shields.io/badge/langchain4j-9ACD32?style=plastic&logo=langchain&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%42b883.svg?style=plastic&logo=Vue.js&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)    
 ![MARIADB](https://img.shields.io/badge/MARIADB-skyblue?logo=MARIADB&logoColor=white&style=plastic)
 ![MYSQL](https://img.shields.io/badge/MYSQL-00758F?logo=MYSQL&logoColor=white&style=plastic)    
