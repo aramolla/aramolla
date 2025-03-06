@@ -5,6 +5,8 @@
 
 
 ### 📚 기술 스텍 📚
+Techs stacks I've used at least once !
+
 ![PYTHON](https://img.shields.io/badge/PYTHON-blue?logo=PYTHON&logoColor=white&style=plastic) 
 ![JAVA](https://img.shields.io/badge/JAVA-green?logo=JAVA&style=plastic) 
 ![C](https://img.shields.io/badge/C-yellow?logo=C&logoColor=white&style=plastic)    
