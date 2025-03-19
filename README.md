@@ -24,8 +24,7 @@ Techs stacks I've used at least once !
 
 
 
-### 💬 contact 💬
-[![VELOG](https://img.shields.io/badge/VELOG-73c86c?logo=VELOG&logoColor=white&style=plastic)](https://velog.io/@aramolla/posts)
+
 
 ---
 
